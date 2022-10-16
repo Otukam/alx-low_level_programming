@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+/**
+ * man- entry point
+ * Return: 0 if success
+ */
+int main(void)
+{
+	char i;
+
+	for (i = 'a'; i <= 'z'; i++)
+	{
+		putchar(i);
+	}
+	return (0)
+}
