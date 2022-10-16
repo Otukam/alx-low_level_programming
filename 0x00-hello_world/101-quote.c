@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- *  *main-program entry point.
+ *  *main- Entry point.
  *
  *    *Return: 1 on success.
  */
