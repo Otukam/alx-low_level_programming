@@ -1,1 +1,1 @@
-C Varibles
+C programming language
